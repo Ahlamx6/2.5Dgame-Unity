@@ -8,3 +8,10 @@ Level 1 :
 ![Level1](https://user-images.githubusercontent.com/102240641/182598166-8262c84c-893a-483e-988f-3baa777beeb0.gif)
 
 Level 2 :
+
+- Create a second level for your 2.5D Player to play through using ProBuilder.
+- include a trigger for an end goal. Have it reload or load into another scene.
+
+![Level2](https://user-images.githubusercontent.com/102240641/182968067-8e14a575-d212-4d5f-86c1-4d2988f2ebda.gif)
+
+Part 2 >
