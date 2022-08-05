@@ -14,4 +14,4 @@ Level 2 :
 
 ![Level2](https://user-images.githubusercontent.com/102240641/182968067-8e14a575-d212-4d5f-86c1-4d2988f2ebda.gif)
 
-Part 2 >
+Part 2 > ProBuilder model.
