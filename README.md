@@ -19,3 +19,20 @@ Part 2 > ProBuilder model.
 ![part2](https://user-images.githubusercontent.com/102240641/182980913-f5e53285-7b81-45c3-9053-04455d93720a.png)
 
 Level 3 :
+- Enemy Patrol 
+
+![enemy1](https://user-images.githubusercontent.com/102240641/183265399-1aa900a9-da9d-4b15-a8c9-9ddab4792c46.gif)
+
+- Shooting
+
+![enemy2](https://user-images.githubusercontent.com/102240641/183265404-06dd912d-ebb8-44c7-89c0-b1ae1f18f2be.gif)
+
+- Player Health
+
+![health](https://user-images.githubusercontent.com/102240641/183265411-5fca618b-5cdd-439c-9e69-9d5c7f26c662.png)
+
+- Player Health picup
+
+![health picup](https://user-images.githubusercontent.com/102240641/183265420-ba4ad241-54be-4cd6-89fd-0b3fbd6b252d.png)
+
+- Enemy Turret 'LookAt'
